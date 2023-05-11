@@ -2,7 +2,7 @@
 
 #### DESCRIPTION 📒 
 
-A collection of python related projects, irrespective of size, summarised in one place
+A collection of python related projects (and notebooks), irrespective of size, summarised in one place
 
 <br>
 
